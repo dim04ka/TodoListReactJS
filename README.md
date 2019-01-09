@@ -1,4 +1,4 @@
-[URL=http://perfetto-furniture.com][IMG]https://cdn1.savepice.ru/uploads/2019/1/9/b3eced75442a3b8faa540ccaf0afe4f5-full.png[/IMG][/URL] [URL=https://savepice.ru/news/all-photo-hosting/instrukciya-po-razmescheniyu-izobrazhenij-na-fotohostinge-uploads.html]uploads[/URL]
+<img src="https://cdn1.savepice.ru/uploads/2019/1/9/b3eced75442a3b8faa540ccaf0afe4f5-full.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
