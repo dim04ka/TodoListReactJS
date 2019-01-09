@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  width: 280px;
+  margin: 0 auto;
+}
+.underline {
+  text-decoration: line-through;
+}
+.import {
+  font-weight: bold;
+}
+.App__List {
+
+  border: 1px solid rgb(202, 201, 198);
+  position: relative;
+}
+.App__button__delete {
+  position: absolute;
+  right: -30px;
+  color: #841515;
+}
+.App__button__important {
+  position: absolute;
+  left: -30px;
+  color: #3F51B5;
+}
+.App__button__addTask {
+  padding: 5px 10px;
+  width: 90%;
+  margin: 10px 0;
+  border-radius: 10px;
+  text-align: center;
+}
+.App__button__active {
+  background-color: #3F51B5;
+}
+.App__search__block {
+  position: relative;
+}
+.App__search__block i {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+.App__form__action {
+  position: relative;
+}
+.App__form__action i{
+  position: absolute;
+  left: 15px;
+  top: 15px;
+}
